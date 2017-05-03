@@ -122,7 +122,6 @@ PRODUCT_PACKAGES += \
     LineageSetupWizard \
     Eleven \
     ExactCalculator \
-    Jelly \
     LockClock \
     ThemeInterfacer \
     Trebuchet \
